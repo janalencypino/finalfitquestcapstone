@@ -1,0 +1,82 @@
+[
+  {
+    "routine_name": "Core Exercises",
+    "routine_description": "A routine that targets the core of the body.",
+    "exercises": [
+      {
+        "name": "Squats",
+        "sets": 2,
+        "reps": 15
+      },
+      {
+        "name": "Sit-Ups",
+        "sets": 1,
+        "reps": 20
+      }
+    ]
+  },
+  {
+    "routine_name": "Full Body",
+    "routine_description": "This routine strengthens the upper body, core and builds lower body strength with squats.",
+    "exercises": [
+      {
+        "name": "Bicep Curl Up",
+        "sets": 2,
+        "reps": 15
+      },
+      {
+        "name": "Sit-Ups",
+        "sets": 2,
+        "reps": 15
+      },
+      {
+        "name": "Squats",
+        "sets": 1,
+        "reps": 20
+      }
+    ]
+  },
+  {
+    "routine_name": "Lower Body",
+    "routine_description": "Engaging in exercises that target the lower body can lead to significant improvements in strength",
+    "exercises": [
+      {
+        "name": "Squats",
+        "sets": 1,
+        "reps": 10
+      },
+      {
+        "name": "Lunges",
+        "sets": 2,
+        "reps": 5
+      }
+    ]
+  },
+  {
+    "routine_name": "Test Routine 1",
+    "routine_description": "test",
+    "exercises": [
+      {
+        "name": "Bicep Curl Up",
+        "sets": 1,
+        "reps": 5
+      },
+      {
+        "name": "Sit-Ups",
+        "sets": 1,
+        "reps": 5
+      }
+    ]
+  },
+  {
+    "routine_name": "Bicep Curls Only",
+    "routine_description": "Test",
+    "exercises": [
+      {
+        "name": "Bicep Curl Up",
+        "sets": 1,
+        "reps": 5
+      }
+    ]
+  }
+]
